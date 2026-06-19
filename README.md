@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vishwanathan+%F0%9F%91%8B;B.Sc+CS+%2B+Data+Science+Graduate+%F0%9F%8E%93;Python+%7C+Java+%7C+C%2B%2B+Developer+%F0%9F%92%BB;Passionate+about+Data+%26+Technology+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[[Profile](https://komarev.com/ghpvc/?username=vishwanathan05082005&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/vishwanathan05082005)
+[[Profile] (https://komarev.com/ghpvc/?username=vishwanathan05082005&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/vishwanathan05082005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwanathan-m-171b07367)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/vishwanathan05082005)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vishwanathan5566@gmail.com)
