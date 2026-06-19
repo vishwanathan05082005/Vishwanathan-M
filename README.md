@@ -9,49 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/vishwanathan05082005)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vishwanathan5566@gmail.com)
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class Vishwanathan:
-    def __init__(self):
-        self.name        = "Vishwanathan M"
-        self.location    = "Chennai, Tamil Nadu, India 🇮🇳"
-        self.degree      = "B.Sc Computer Science with Data Science (2023–2026)"
-        self.college     = "Tagore College of Arts and Science, Chrompet"
-        self.languages   = ["Tamil", "English"]
-        self.stack       = ["Python", "Java", "C++", "HTML"]
-        self.interests   = [
-            "Data Analysis",
-            "Cloud Computing",
-            "Software Development",
-            "Machine Learning"
-        ]
-        self.currently_learning = [
-            "Advanced Python",
-            "SQL & NoSQL Databases",
-            "AWS / Cloud Fundamentals",
-            "Data Visualization"
-        ]
-        self.hobbies     = ["📚 Reading", "📷 Photography",
-                            "🏏 Cricket", "🏍️ Bike Riding"]
-
-    def fun_fact(self):
-        return "I debug code the same way I ride bikes — full throttle 🏍️"
-
-    def motto(self):
-        return "Learn continuously. Build relentlessly. Grow every day. 🚀"
-
-me = Vishwanathan()
-print(me.motto())
-```
-
-<br clear="right"/>
+</div> 
 
 ---
 
